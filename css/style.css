@@ -1,0 +1,57 @@
+body {
+    background-color: cadetblue;
+    -webkit-user-select: none;
+    color: cadetblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    background-color: aliceblue
+}
+
+#message {
+    text-align: center;
+    font-size: 50px;
+    background-color: aliceblue;
+    color: red;
+}
+
+#vsc, #vsp {
+    width: 400px;
+    height: 100px;
+    top: 20px;
+    position: relative;
+    left: 50%;
+    transform: translate(-97%, 0);
+    font-size: 50px;
+    color: cadetblue;
+    background-color: aliceblue;
+    border: none;
+}
+
+#res {
+    width: 200px;
+    height: 50px;
+    top: 20px;
+    position: relative;
+    left: 50%;
+    transform: translate(-51%, 0);
+    color: cadetblue;
+    font-size: 30px;
+}
+
+.game {
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.block {
+    width: 100px;
+    height: 100px;
+    border: 3px solid cadetblue;
+    font-size: 60px;
+    text-align: center;
+}
+
+
